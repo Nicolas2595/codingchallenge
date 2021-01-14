@@ -1,0 +1,68 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 100%;
+}
+
+
+.Logo{
+  width: 150px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.container{
+  width: 400px;
+  margin: auto;
+}
+
+.testo{
+  color: green;
+}
+
+nav{
+  background-color: green;
+  text-align: center;
+}
+
+.veicles{
+  font-size: 20px;
+
+}
+
+main{
+  color: white;
+}
+
+.barra{
+width: 300px;
+height: 20px;
+background-color: orange;
+border-radius: 3px;
+}
+
+#testo{
+color: orange;
+}
+
+.barra2{
+width: 450px;
+height: 20px;
+background-color: green;
+border-radius: 3px;
+}
+
+#testo2{
+  color: green;
+}
+
+.barra3{
+width: 100px;
+height: 20px;
+background-color: red;
+border-radius: 3px;
+}
+
+
+#testo3{
+  color: red;
+}
